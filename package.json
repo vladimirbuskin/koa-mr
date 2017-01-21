@@ -1,0 +1,19 @@
+{
+  "name": "koa-mr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "koax.js",
+  "scripts": {
+    "test": "mocha ./**/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "3.1.2"
+  },
+  "dependencies": {
+    "koa": "^2.0.0",
+    "koa-mount": "^2.0.0",
+    "koa-route": "^3.2.0"
+  }
+}
