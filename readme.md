@@ -1,7 +1,7 @@
-# KOAX
+# koa-mr
 
-Extended koa app, instance extended with 'koa-route', 'koa-mount' methods.
-so methods like
+koa extended with *koa-route* and *koa-mount* methods.
+So methods:
 
 ```
 app.get(...)
