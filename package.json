@@ -1,13 +1,16 @@
 {
   "name": "koa-mr",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.1.0",
+  "description": "Extends koa with koa-route and koa-mount methods. Makes it's easier for middle and bigger size applications",
   "main": "koa-mr.js",
+  "keywords": "koa, koa-mount, koa-route",
+  "homepage": "https://github.com/vladimirbuskin/koa-mr",
+  "bugs": "https://github.com/vladimirbuskin/koa-mr/issues",
   "scripts": {
     "test": "mocha ./**/*.test.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Vladimir Buskin",
+  "license": "MIT",
   "devDependencies": {
     "mocha": "3.1.2"
   },
