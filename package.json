@@ -1,6 +1,6 @@
 {
   "name": "koa-mr",
-  "version": "1.1.0",
+  "version": "1.0.2",
   "description": "Extends koa with koa-route and koa-mount methods. Makes it's easier for middle and bigger size applications",
   "main": "koa-mr.js",
   "keywords": "koa, koa-mount, koa-route",
